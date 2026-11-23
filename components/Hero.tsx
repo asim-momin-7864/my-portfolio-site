@@ -22,8 +22,11 @@ export function Hero() {
           </div>
         </div>
         {/* eslint-disable-next-line @next/next/no-img-element */}
-        <img src={profile.photo} alt={`Photo of ${profile.name}`}
-             className="h-36 w-36 rounded-full border border-gray-200 object-cover sm:h-48 sm:w-48" />
+        <img
+          src={profile.photo}
+          alt={`Photo of ${profile.name}`}
+          className="h-40 w-40 shrink-0 rounded-2xl border-2 border-white object-cover object-top shadow-md ring-1 ring-gray-200 sm:h-52 sm:w-52"
+        />
       </div>
     </section>
   );
