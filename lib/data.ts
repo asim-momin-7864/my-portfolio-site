@@ -11,7 +11,7 @@ export const profile = {
     "I am always exploring and learning full-stack development, applied AI and agents, and I want to grow by working with a real team.",
   ],
   looking:
-    "Looking for: Full-Stack Developer or Applied AI Developer roles at startups. Available immediately. Ready to move anywhere in India, or work remote.",
+    "Looking for: Full-Stack Developer or Applied AI Developer roles on fast-paced product teams focused on rapid iteration from idea to production. Available immediately. Ready to move anywhere in India, or work remote.",
 };
 
 export const links = {
